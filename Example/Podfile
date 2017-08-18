@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRNoNetRetryTool_Example' do
+  pod 'SRNoNetRetryTool', :path => '../'
+
+  target 'SRNoNetRetryTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

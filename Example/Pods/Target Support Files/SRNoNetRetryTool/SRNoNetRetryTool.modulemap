@@ -1,0 +1,6 @@
+framework module SRNoNetRetryTool {
+  umbrella header "SRNoNetRetryTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

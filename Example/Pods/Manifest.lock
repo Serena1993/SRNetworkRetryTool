@@ -1,0 +1,16 @@
+PODS:
+  - SRNoNetRetryTool (0.1.0)
+
+DEPENDENCIES:
+  - SRNoNetRetryTool (from `../`)
+
+EXTERNAL SOURCES:
+  SRNoNetRetryTool:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SRNoNetRetryTool: eb894b580ce89956f2de28c16e9877935a40551a
+
+PODFILE CHECKSUM: 34d22582f1b89a274e8383ac3b91f99f99e3e335
+
+COCOAPODS: 1.2.1
